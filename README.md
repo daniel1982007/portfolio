@@ -27,8 +27,10 @@ learning new things is very important.
 * Material UI
 * Bootstrap
 
-# Backend Development
+# Backend Development and Database
 * Node.js
+* Mongo DB
+* Mongoose
 
 # Other
 * WordPress
