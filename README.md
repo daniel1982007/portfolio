@@ -1,26 +1,70 @@
 # portfolio
 
 # About me
-My name is Daniel. I am a software engineer and I have been
-in this industry for almost 4 years. Why I chose this career?
-Because we are living in a digital world, almost everything 
-around us is connected with these simple 0 and 1. I found it
-very interesting, if we use our imagination we can definitely 
-build our life in a better way and let the digital work good for 
-very everyone.
+My name is Daniel. I am a self-learnt software developer from 2018. Before 
+I entered to software world, I was a telecom project manager and mainly
+worked in Ukraine, Turkey, Serbia and Albania. As long as I worked in my
+previous job, I was always interested in programming and always thought about
+to become a software engineer, at last I decided to switch my career. I started
+from Java, it was the first language that I put all my effort to lean and master.
+It is the entrance for me to enter software world. Learning is a very important 
+attitude, because technologies are developing so fast. As a software developer
+learning new things is very important.
 
-# My Experience
-I worked a long time in a telecom company, so I have technical
-background as an engineer. After I switched my career from 
-telecom to IT web development, firstly I learned everything
-by myself from many resource like youtube, udemy, coursera
-and some online courses. Except that I also joined some training
-courses offline, in order to meet up with other programmers 
-and communicate with them, exchange experience and so on. After
-about 1 year of learning, I started to search a job. It was not
-easy, but I believe if working hard, the goal can be reached.
+# Languages
+* Java
+* JavaScript
+* CSS
+* HTML
+* Python
+* C++
 
-* Java developer in a local company in Kyiv for half year.
-* Frontend developer in React.js in a local company in Kyiv for 3 months.
-*
+# Frameworks / Tools - Frontend Development
+* React.js
+* Next.js
+* GraphQL
+* Scss
+* Material UI
+* Bootstrap
+
+# Backend Development
+* Node.js
+
+# Other
+* WordPress
+* Android Studio
+
+
+# Certificates
+* online course Pirple.com for JavaScript ES6
+* online course Treehouse.com for Java OOP
+* online course scrimba.com for Frontend dev React
+* Dare IT Challenge Portfolio - QA test
+
+# Work Experience
+* Java engineer in a Taxfree4U project in Ukraine for 3 months
+* Frontend Developer in Usilicon Microelectronics for 6 months
+* Frontend React developer in Powercode for 2 months
+
+# Github repositories
+### simple frontend app by redux and react
+https://github.com/daniel1982007/gameboard
+### responsive design using SCSS
+https://github.com/daniel1982007/landpage
+### plain Javascript tictactoe game
+https://github.com/daniel1982007/TicTacToeGame
+### full stack app MERN
+https://github.com/daniel1982007/films-hall/tree/master
+### Code war practice in Javascript
+https://github.com/daniel1982007/codewars
+
+# Github repository QA, Test cases and Test report
+### QA test
+https://github.com/daniel1982007/challenge_portfolio_pati
+### Test cases
+https://drive.google.com/drive/folders/1Uqw3uh5ewolwVAd8u_d0S6Cu4qUR09nG
+### Test bug reports
+https://drive.google.com/drive/folders/17yYRsNn1NxgxRSx3GaM_e61F7AS_Jyvg
+
+
 
