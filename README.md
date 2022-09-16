@@ -1,6 +1,6 @@
-# portfolio
+# Portfolio
 
-# About me
+## About me
 My name is Daniel. I am a self-learnt software developer from 2018. Before 
 I entered to software world, I was a telecom project manager and mainly
 worked in Ukraine, Turkey, Serbia and Albania. As long as I worked in my
@@ -11,7 +11,7 @@ It is the entrance for me to enter software world. Learning is a very important
 attitude, because technologies are developing so fast. As a software developer
 learning new things is very important.
 
-# Languages
+## Languages
 * Java
 * JavaScript
 * CSS
@@ -19,7 +19,7 @@ learning new things is very important.
 * Python
 * C++
 
-# Frameworks / Tools - Frontend Development
+## Frameworks / Tools - Frontend Development
 * React.js
 * Next.js
 * GraphQL
@@ -27,29 +27,29 @@ learning new things is very important.
 * Material UI
 * Bootstrap
 
-# Backend Development and Database
+## Backend Development and Database
 * Node.js
 * Mongo DB
 * Mongoose
 
-# Other
+## Other
 * WordPress
 * Android Studio
 * Git
 
 
-# Certificates
+## Certificates
 * online course Pirple.com for JavaScript ES6
 * online course Treehouse.com for Java OOP
 * online course scrimba.com for Frontend dev React
 * Dare IT Challenge Portfolio - QA test
 
-# Work Experience
+## Work Experience
 * Java engineer in a Taxfree4U project in Ukraine for 3 months
 * Frontend Developer in Usilicon Microelectronics for 6 months
 * Frontend React developer in Powercode for 2 months
 
-# Github repositories
+## Github repositories
 ### simple frontend app by redux and react
 https://github.com/daniel1982007/gameboard
 ### responsive design using SCSS
@@ -61,7 +61,7 @@ https://github.com/daniel1982007/films-hall/tree/master
 ### Code war practice in Javascript
 https://github.com/daniel1982007/codewars
 
-# Github repository QA, Test cases and Test report
+## Github repository QA, Test cases and Test report
 ### QA test
 https://github.com/daniel1982007/challenge_portfolio_pati
 ### Test cases
