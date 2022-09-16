@@ -35,6 +35,7 @@ learning new things is very important.
 # Other
 * WordPress
 * Android Studio
+* Git
 
 
 # Certificates
