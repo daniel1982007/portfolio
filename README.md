@@ -1,15 +1,7 @@
 # Portfolio
 
 ## About me
-My name is Daniel. I am a self-learnt software developer from 2018. Before 
-I entered to software world, I was a telecom project manager and mainly
-worked in Ukraine, Turkey, Serbia and Albania. As long as I worked in my
-previous job, I was always interested in programming and always thought about
-to become a software engineer, at last I decided to switch my career. I started
-from Java, it was the first language that I put all my effort to lean and master.
-It is the entrance for me to enter software world. Learning is a very important 
-attitude, because technologies are developing so fast. As a software developer
-learning new things is very important.
+My name is Daniel. I am a self-learnt software developer from 2018. Before I entered to software world, I was a telecom project manager and mainly worked in Ukraine, Turkey, Serbia and Albania. As long as I worked in my previous job, I was always interested in programming and always thought about to become a software engineer, at last I decided to switch my career. I started from Java, it was the first language that I put all my effort to lean and master. It is the entrance for me to enter into the software world. Learning is a very important attitude as to be a programmer, because technologies in these days are developing so fast. In this career constantly learning new things is a must.
 
 ## Languages
 * Java
