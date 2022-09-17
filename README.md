@@ -49,7 +49,7 @@ https://github.com/daniel1982007/landpage
 ### plain Javascript tictactoe game
 https://github.com/daniel1982007/TicTacToeGame
 ### full stack app MERN
-https://github.com/daniel1982007/films-hall/tree/master
+https://github.com/daniel1982007/films-hall
 ### Code war practice in Javascript
 https://github.com/daniel1982007/codewars
 
