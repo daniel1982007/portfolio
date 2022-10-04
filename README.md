@@ -36,10 +36,10 @@ My name is Daniel. I am a self-learnt software developer from 2018. Before I ent
 * online course scrimba.com for Frontend dev React
 * Dare IT Challenge Portfolio - QA test
 
-## Work Experience
-* Java engineer in a Taxfree4U project in Ukraine for 3 months
-* Frontend Developer in Usilicon Microelectronics for 6 months
-* Frontend React developer in Powercode for 2 months
+## Commercial Work Experience
+* Frontend React developer in Powercode for 2 months in Kyiv Ukraine
+* Frontend developer in Usilicon Microelectronics for 8 months in Kyiv Ukraine
+* Java engineer in a Taxfree4U project for 9 months in Kyiv Ukraine
 
 ## Github repositories
 ### simple frontend app by redux and react
